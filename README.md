@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I’m Petimat</h1>
-
-<p align="center">
-  💻 <b>Backend Developer (Go)</b><br>3
+  💻 <b>Backend Developer (Go)</b><br>
 </p>
 
 ---
