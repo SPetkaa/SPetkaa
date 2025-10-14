@@ -1,0 +1,25 @@
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # каждый день в 00:00 UTC
+  workflow_dispatch:       # можно запустить вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SPetkaa
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
