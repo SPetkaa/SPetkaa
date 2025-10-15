@@ -7,7 +7,7 @@
 
 ### ✨ About me
 
--🧱 I build minimalist and sustainable services on Go
+- 🧱 I build minimalist and sustainable services on Go
 - 🎯 I'm developing in backend architecture, REST and testing
 - 🤝 Open to joint projects and interesting tasks
 
