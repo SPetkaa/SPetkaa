@@ -11,33 +11,26 @@
 - 🎯 I'm developing in backend architecture, REST and testing
 - 🤝 Open to joint projects and interesting tasks
 
-<p align="center">
-  <a href="mailto:psaralieva239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/wwhxxm">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SPetkaa&style=for-the-badge&color=0E8EA8&label=Profile+views+👁">
-</p>
-
+### 📬 Contacts
+<a href="mailto:psaralieva239@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://t.me/wwhxxm">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=SPetkaa&style=for-the-badge&color=0E8EA8&label=Profile+views">
 
 ---
 
 ### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>---
 
 ### 📌 Pinned projects
 - [go-fitness-tracker](https://github.com/SPetkaa/go-fitness-tracker) — трекер активности (Go, REST)
 - [go-calc-and-win](https://github.com/SPetkaa/go-calc-and-win) — CLI-игра на Go
-- [final-project-encoding-go](https://github.com/SPetkaa/final-project-encoding-go) — финальный проект (Go, JSON)
 
 ---
 
