@@ -12,10 +12,15 @@
 - 🤝 Open to joint projects and interesting tasks
 
 <p align="center">
-  <a href="mailto:psaralieva239@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/wwhxxm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=SPetkaa&style=for-the-badge" />
+  <a href="mailto:psaralieva239@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/wwhxxm">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SPetkaa&style=for-the-badge&color=0E8EA8&label=Profile+views+👁">
 </p>
+
 
 ---
 
