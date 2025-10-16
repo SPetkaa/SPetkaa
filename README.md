@@ -1,3 +1,4 @@
+<img src="https://pin.it/5kWun3OMN" alt="banner" width="100%" />
 <h1 align="center">👋 Hi everyone, I'm <b>Petimat</b></h1>
 
 <p align="center">
