@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SPetkaa/SPetkaa/main/2e8bd8037fe0d863db83ed94141f1981.jpeg" alt="banner" width="100%">
-</p>
-
 <h1 align="center">👋 Hi, I'm Petimat</h1>
 <h3 align="center">💻 Backend Developer (Go)</h3>
 
