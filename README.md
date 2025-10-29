@@ -1,5 +1,4 @@
 <!-- Баннер -->
-<img src="https://i.imgur.com/9a0Lr8k.png" alt="banner" width="100%">
 
 ---
 
@@ -7,7 +6,6 @@
 ### 💻 Backend Developer (Go)
 
 ---
-
 
 ## 🧠 Tech Stack
 - Languages: Go, SQL  
